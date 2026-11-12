@@ -18,7 +18,7 @@ Add your code and results to document your experiment.
 
 
 ### Rubric:
-> *This assignment is worth 6 points. It will be graded using the following rubric. I strongly suggest evaluating your project using this rubric before turning it in. It consists of two criteria: 1) *writing, and 2) *code. The details of the rubrics are as follows:
+> *This assignment is worth 7 points. It will be graded using the following rubric. I strongly suggest evaluating your project using this rubric before turning it in. It consists of two criteria: 1) *writing, and 2) *code. The details of the rubrics are as follows:
 
 | Exercise #  | Points Awarded (out of 7)  | Notes |
 | --------- | ------------------- | --------- |
